@@ -13,4 +13,4 @@ You can run this program by selecting "BrokenWelcome" from the Run Configuration
 #### For this challenge, you'll be creating variables of different types. 
 Simply do as the comments say in the Variables file.
 
-Please note that this challenge will be hand-graded, and does not have a test set up. 
+Please note that this challenge will be hand-graded, and does not have a test set up.  
